@@ -1,0 +1,5 @@
+
+Enter an Integer: 7
+Enter an Integer: 7
+The total is: 14
+-- program is finished running --
